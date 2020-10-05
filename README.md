@@ -1,4 +1,4 @@
-# meals
+# Meals
 
 A new Flutter project.
 
